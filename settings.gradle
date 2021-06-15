@@ -1,0 +1,2 @@
+rootProject.name = "EnocAssessment"
+include ':app'

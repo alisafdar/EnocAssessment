@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email</string>
+    <string name="peter_mail_com">peter@mail.com</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_request_failed">Request Failed,Please try later.</string>
+</resources>

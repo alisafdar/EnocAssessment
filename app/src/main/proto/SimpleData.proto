@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "com.alisafdar.enocassessment.datastore.data";
+
+message PreferenceData {
+    string access_token = 1;
+    string refresh_token = 2;
+}
